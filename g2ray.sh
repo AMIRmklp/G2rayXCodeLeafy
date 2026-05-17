@@ -751,11 +751,11 @@ while true; do
             fi
             echo -e "\n  ${GREEN}Your Direct Link:${NC}"
             echo -e "  ${WHITE}${_VLESS}${NC}\n"
-            echo -e "  ${YELLOW}──────────────────────────────────────────────${NC}"
+            echo -e "  ${WHITE}──────────────────────────────────────────────${NC}"
             echo -e "  ${GREEN}📱 Mobile Config saved to:${NC}"
             echo -e "  ${WHITE}${MOBILE_CONFIG_FILE}${NC}"
             echo -e "  ${DIM}Open that file and paste the link into your client app.${NC}"
-            echo -e "  ${YELLOW}──────────────────────────────────────────────${NC}\n"
+            echo -e "  ${WHITE}──────────────────────────────────────────────${NC}\n"
             read -rp "  Press Enter to return..."
             ;;
 
